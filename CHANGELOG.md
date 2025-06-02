@@ -1,0 +1,1 @@
+- **2025-06-02 16:55:50**: docs: update README setup instructions and dependencies
