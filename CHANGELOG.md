@@ -1,1 +1,2 @@
 - **2025-06-02 16:55:50**: docs: update README setup instructions and dependencies
+- **2025-06-03 18:12:44**: refactor: modularize signal processing functions into separate header
