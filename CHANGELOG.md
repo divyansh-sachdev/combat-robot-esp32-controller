@@ -1,2 +1,3 @@
 - **2025-06-02 16:55:50**: docs: update README setup instructions and dependencies
 - **2025-06-03 18:12:44**: refactor: modularize signal processing functions into separate header
+- **2025-06-05 16:33:17**: docs: clarify licensing and hardware bill of materials
