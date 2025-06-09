@@ -2,3 +2,4 @@
 - **2025-06-03 18:12:44**: refactor: modularize signal processing functions into separate header
 - **2025-06-05 16:33:17**: docs: clarify licensing and hardware bill of materials
 - **2025-06-05 21:52:46**: fix: handle edge case timeout in sensor initialization loop
+- **2025-06-09 21:42:11**: feat: add visual status LED pulse code for diagnostic mode
