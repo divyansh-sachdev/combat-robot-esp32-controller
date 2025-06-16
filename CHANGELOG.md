@@ -5,3 +5,4 @@
 - **2025-06-09 21:42:11**: feat: add visual status LED pulse code for diagnostic mode
 - **2025-06-13 18:26:30**: docs: clarify licensing and hardware bill of materials
 - **2025-06-13 18:45:41**: docs: add circuit wiring pinout and power consumption profile
+- **2025-06-16 20:07:39**: perf: tune FreeRTOS task priority to eliminate frame drops
