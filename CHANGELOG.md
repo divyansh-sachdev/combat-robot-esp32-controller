@@ -7,3 +7,4 @@
 - **2025-06-13 18:45:41**: docs: add circuit wiring pinout and power consumption profile
 - **2025-06-16 20:07:39**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-06-18 19:53:13**: docs: clarify licensing and hardware bill of materials
+- **2025-06-18 21:53:41**: feat: add hardware failsafe watchdog timer routine
