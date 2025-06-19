@@ -8,3 +8,4 @@
 - **2025-06-16 20:07:39**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2025-06-18 19:53:13**: docs: clarify licensing and hardware bill of materials
 - **2025-06-18 21:53:41**: feat: add hardware failsafe watchdog timer routine
+- **2025-06-19 21:20:20**: perf: tune I2C bus frequency to 400kHz for sensor polling
