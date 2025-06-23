@@ -9,3 +9,4 @@
 - **2025-06-18 19:53:13**: docs: clarify licensing and hardware bill of materials
 - **2025-06-18 21:53:41**: feat: add hardware failsafe watchdog timer routine
 - **2025-06-19 21:20:20**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2025-06-23 19:20:39**: feat: implement moving average filter for noise suppression
