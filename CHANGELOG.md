@@ -13,3 +13,4 @@
 - **2025-06-23 20:14:34**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-06-24 11:22:36**: feat: add dynamic threshold adaptation for environmental drift
 - **2025-06-25 16:51:29**: docs: add circuit wiring pinout and power consumption profile
+- **2025-06-27 17:40:44**: docs: update README setup instructions and dependencies
