@@ -16,3 +16,4 @@
 - **2025-06-27 17:40:44**: docs: update README setup instructions and dependencies
 - **2025-06-30 18:47:19**: fix: prevent buffer underflow during rapid sensor reads
 - **2025-06-30 19:50:34**: fix: prevent buffer underflow during rapid sensor reads
+- **2025-07-04 18:46:19**: fix: prevent buffer underflow during rapid sensor reads
