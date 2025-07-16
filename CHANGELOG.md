@@ -21,3 +21,4 @@
 - **2025-07-05 17:44:35**: docs: update README setup instructions and dependencies
 - **2025-07-07 15:52:15**: refactor: optimize ADC sampling window and reduce jitter
 - **2025-07-08 19:15:29**: refactor: simplify state machine transition logic
+- **2025-07-16 21:24:50**: perf: optimize memory footprint by reducing ring buffer depth
