@@ -24,3 +24,4 @@
 - **2025-07-16 21:24:50**: perf: optimize memory footprint by reducing ring buffer depth
 - **2025-07-17 11:20:34**: fix: calibrate baseline sensor offset against reference multimeter
 - **2025-07-18 10:47:35**: feat: implement low-power light sleep mode during idle intervals
+- **2025-07-24 10:42:33**: feat: add dynamic threshold adaptation for environmental drift
