@@ -28,3 +28,4 @@
 - **2025-07-24 14:45:16**: feat: add hardware failsafe watchdog timer routine
 - **2025-07-31 20:28:15**: docs: document serial protocol packet structure and error codes
 - **2025-08-01 21:29:50**: refactor: modularize signal processing functions into separate header
+- **2025-08-03 19:06:49**: test: benchmark inference execution speed on ESP32 dual-core
