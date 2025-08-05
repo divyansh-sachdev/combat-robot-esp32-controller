@@ -30,3 +30,4 @@
 - **2025-08-01 21:29:50**: refactor: modularize signal processing functions into separate header
 - **2025-08-03 19:06:49**: test: benchmark inference execution speed on ESP32 dual-core
 - **2025-08-05 15:46:14**: test: verify timer interrupt latency under heavy load
+- **2025-08-05 19:49:29**: test: validate thermal stability over continuous 6-hour test run
